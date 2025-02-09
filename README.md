@@ -82,13 +82,6 @@ According to **Clive Granger (1977)**, economic causality can be tested by measu
 - **Granger, C.W.J.** (1977). "Investigating Causal Relations by Econometric Models and Cross-Spectral Methods." *Econometrica*  
 - **Akaike, H.** (1974). "A New Look at the Statistical Model Identification." *IEEE Transactions on Automatic Control*  
 
----
-
-## 7. How to Use This Repository
-📥 Clone the repository:
-```bash
-git clone https://github.com/slashhsu/Impact-of-Import-and-Export-on-GDP-in-UK.git
-
 
 6. References
 Granger, C.W.J. (1977). "Investigating Causal Relations by Econometric Models and Cross-Spectral Methods." Econometrica
